@@ -228,6 +228,8 @@ nav {
 
 /* Questions */
 
+
+
 .our-opinion{
     text-align: center;
     font-size: 50px;
@@ -236,6 +238,7 @@ nav {
     border-bottom: 5px solid #48e;    
     display: inline-block;
     margin-left: 40%;
+    
 }
 .questions {
     height: 800px;
@@ -250,6 +253,7 @@ nav {
 
 .textos-questions {
     margin: 0 0 0 30px;
+
 }
 
 .textos-questions p {
@@ -283,7 +287,8 @@ nav {
 .flex-opinion div {
  
    width: 95%;
-    height: 500px;
+    min-height: 600px;
+    height: auto;
     padding: 10px;
     
     
